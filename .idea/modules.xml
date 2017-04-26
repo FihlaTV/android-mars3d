@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mars3d.iml" filepath="$PROJECT_DIR$/mars3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motioncapture/motioncapture.iml" filepath="$PROJECT_DIR$/motioncapture/motioncapture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opencv-android/opencv-android.iml" filepath="$PROJECT_DIR$/opencv-android/opencv-android.iml" />
+    </modules>
+  </component>
+</project>
